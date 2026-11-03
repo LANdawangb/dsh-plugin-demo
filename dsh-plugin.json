@@ -1,7 +1,0 @@
-{
-  "id": "github:LANdawangb/dsh-plugin-demo",
-  "name": "我的第一个DSH测试插件",
-  "description": "简单测试插件",
-  "version": "0.0.1",
-  "main": "index.js"
-}
