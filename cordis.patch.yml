@@ -1,0 +1,3 @@
+- add:
+    plugins:
+      - require: "./index.js"
